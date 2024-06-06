@@ -1,7 +1,7 @@
 # Thoughts on Cybersecurity Outsourcing
 
 - Conventional management wisdom says "outsource things that are not your business's core competency, and only do in-house what truly adds value". The inference here is that the things to outsource are commodities, such as travel management, benefits management, payroll, transportation/shipping, or food service/janitorial services. It also stands to reason that you should outsource things that don't require a specialized knowledge of your business to perform. There are certainly aspects of IT and cybersecurity that could fall into this category.
-- Many managers outsource just to realize the benefits of offshore labor. They are ecstatic to pay $30-100k/yr for a leveraged (shared) team to manage security technology such as firewalls, SIEM, EDR, Identity, etc. But unbeknownst to them, you can hire your own (dedicated) offshore FTE for a fraction of that price! MSP's make a killing on delivering managed services via leveraged teams.
+- Many managers outsource just to realize the cost benefits of offshore labor. They are ecstatic to pay $30-100k/yr for a leveraged (shared) team to manage security technology such as firewalls, SIEM, EDR, Identity, etc. But unbeknownst to them, you can hire your own (dedicated) offshore FTE for a fraction of that price! MSP's make a killing on delivering managed services via leveraged teams.
 - Average FTE base salary (L3 on a scale of L1-L5):
   - India: $25k
   - Philippines: $30k
